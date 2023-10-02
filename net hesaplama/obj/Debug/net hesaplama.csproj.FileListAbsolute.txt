@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\bin\Debug\net hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\bin\Debug\net hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\bin\Debug\net hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\obj\Debug\net hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\obj\Debug\net hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\obj\Debug\net_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\obj\Debug\net_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\obj\Debug\net hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\obj\Debug\net hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\obj\Debug\net hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplama\net hesaplama\obj\Debug\net hesaplama.pdb
